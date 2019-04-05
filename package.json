@@ -1,0 +1,8 @@
+{
+  "name": "koaservice",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:5tarlight/koaservice.git",
+  "author": "5tarlight <developerstarlight@gmail.com>",
+  "license": "GPL-3.0"
+}

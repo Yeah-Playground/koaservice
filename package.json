@@ -4,5 +4,13 @@
   "main": "main.js",
   "repository": "git@github.com:5tarlight/koaservice.git",
   "author": "5tarlight <developerstarlight@gmail.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "moment": "^2.24.0",
+    "nodemon": "^1.18.10",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.8.0",
+    "yarn": "^1.15.2"
+  }
 }
